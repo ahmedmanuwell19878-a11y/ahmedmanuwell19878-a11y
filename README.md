@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello 👋
 
-<!--
-**ahmedmanuwell19878-a11y/ahmedmanuwell19878-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ahmed Malik a passionate Front-End Developer specializing in React js, JavaScript, HTML, CSS, and Bootstrap.
+I create responsive, user-friendly web applications and enjoy turning designs from Figma into interactive, real-world projects.
+Skilled in Git version control and building projects that are both clean and maintainable.
+I focused on building modern, responsive web applications.
+Currently,I am learning python for machine learning and backend development.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies, improving my coding skills, and contributing to open-source projects. My goal is to create efficient, clean, and visually appealing web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to contact me or hire me or work with me,You can email me.
+
+Hobbies:Book reading, travelling and cooking.
